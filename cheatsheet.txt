@@ -1,0 +1,10 @@
+Clonar un repo existente:
+git clone ssh://usuario@domain.com/repo.git
+Crear un nuevo repositorio local
+git init
+Añadir los archivos al estado staging
+git add .
+Hacer commit de los archivos en staging
+git commit -m "acá va el mensaje"
+Subir el archivo al repositorio
+git push origin main
