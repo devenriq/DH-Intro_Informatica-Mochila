@@ -4,7 +4,7 @@ Acá están los entregables que se piden clase tras clase.
 
 ## Entrega 1
 
-Consiste en una práctica de manipulación y creación de archivos usando exclusivamente en el CLI de bash (en mi caso, uso zsh)
+Consiste en una práctica de manipulación y creación de archivos usando exclusivamente el CLI de bash (en mi caso, uso zsh)
 
 ## Entrega 2 (Git-Github)
 
